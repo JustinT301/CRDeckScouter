@@ -64,7 +64,9 @@ This is a Python Tkinter Application that can check what competitive decks and r
 
 7. Unpack images.zip into a folder called images
 
-8. Run the Clash Royale Automation bot code:
+8. Create [Clash Royale ](https://developer.clashroyale.com/#/) account and paste API token into .env file.
+
+9. Run the Clash Royale Automation bot code:
    ```sh
    python main.py
    ```
